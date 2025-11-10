@@ -37,7 +37,7 @@
 
 | Projeto/Contato | Descrição | Link |
 | :--- | :--- | :--- |
-| **Portfólio de Dados** | Coleção dos meus principais trabalhos e dashboards. | [Ver Portfólio](https://mmmagalhaes.github.io/Portfolio/Portfolio/CV/) |
-| **DATARIS** | Plataforma de serviços em análise e automação (HTML, CSS, JavaScript, n8n). | [Acessar DATARIS](https://mmmagalhaes.github.io/Dataris/DATARIS/) |
-| **E-mail** | Meu contato profissional. [cite_start]| it.mariamagalhaes@outlook.com.br [cite: 2] |
-| **LinkedIn** | [Link do Seu LinkedIn] |
+| **Portfólio de Dados** | Coleção dos meus principais trabalhos e dashboards. | [Ver Portfólio](https://mnmagalhaes.github.io/Portfolio/Portifolio/CV/) |
+| **DATARIS** | Plataforma de serviços em análise e automação (HTML, CSS, JavaScript, n8n). | [Acessar DATARIS](https://mnmagalhaes.github.io/Dataris/DATARIS/) |
+| **E-mail** | Meu contato profissional: [it.mariamagalhaes@outlook.com.br] | [WhatsApp](https://api.whatsapp.com/send/?phone=5511987418226&text&type=phone_number&app_absent=0) |
+| **LinkedIn** | [Perfil](https://www.linkedin.com/in/maria-magalh%C3%A3es-bb24361a3/) |
